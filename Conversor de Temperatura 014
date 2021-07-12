@@ -1,0 +1,5 @@
+num = float(input(' Informe a temperatura em °C: '))
+
+temp = (num * 1.8) + 32
+
+print(' A temperatura {}°C corresponde a {}°F ! '.format(num, temp))
