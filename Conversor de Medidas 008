@@ -1,0 +1,9 @@
+dem = float(input('Digite uma distância em metro:'))
+km = dem/1000
+hm = dem/100
+dam = dem/10
+dm = dem*10
+cm = dem*100
+mm = dem*1000
+
+print('A medida de {}m corresponde a \n {}km \n {}hm \n {}dam \n {}dm \n {}cm \n {}mm '.format(dem, km, hm, dam, dm, cm, mm))
