@@ -1,0 +1,12 @@
+dias = int(input('Quantidade de dias alugado? '))
+
+km = float(input('Qual foi a quantidade de Km percorrido? '))
+
+kmpercorridos = km * 0.15
+
+diasalugados = dias * 60
+
+totalapagar = kmpercorridos + diasalugados
+
+
+print('O total a pagar é de R${:.2f}'.format(totalapagar))
