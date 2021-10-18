@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Luan Asmar. Production Engineer graduated since 2018. Currently studying Python and SQL in order to work in the field of Analysis and Data Science.
+- 👋 Engenheiro de Produção com aplicação de trabalho na área de dados. Atualmente utilizando linguagens como SQL e Python na área de prevenção à lavagem de dinheiro ou financiamento ao terrorismo.
 .
 
 <!---
